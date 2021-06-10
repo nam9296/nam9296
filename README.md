@@ -28,7 +28,5 @@
   <img src="https://img.shields.io/badge/RStudio-75AADB?&style=plastic&logo=rstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?&style=plastic&logo=git&logoColor=white">
 </div>
-<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nam9296&theme=nord_bright">
 
