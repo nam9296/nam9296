@@ -1,8 +1,6 @@
 ![HEADER](https://capsule-render.vercel.app/api?type=waving&color=C8C8FF&height=145&section=header&text=Dreaming%20capable%20Data-Analyst&fontSize=40&fontColor=FFFFFF&fontAlignY=30)
 
-<div align="center">
-  <h4>Hi, I'm Nam HaLim 👋</h4>
-</div>
+<h4 align="center">Hi, I'm Nam HaLim 👋</h4>
 
 <br>
 
