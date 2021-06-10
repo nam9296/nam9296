@@ -2,9 +2,11 @@
   <h1>Hi, I'm Nam Ha Lim 👋</h1>
   <p>Dreaming capable Data-Analyst !</p>
   <ul>
-    <li>🌱 I'm currently learning ...</li>
-    <li>💬 Ask me about anything related to Python/R ...</li>
-    <li>📫 If you are curious about me? 👉🏻👉🏻[Gmail](mailto:nhl9296@gmail.com)</li>
+    <li>🌱 I'm currently learning Data Analytics, ML</li>
+    <li>💬 Ask me about anything related to Python, R</li>
+    <li>📫 If you are curious about me? 👉👉
+      <a href="mailto:nhl@gmail.com">Gmail</a>
+    </li>
   </ul>
 </div>
 
